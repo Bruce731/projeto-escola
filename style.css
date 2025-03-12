@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #213f6b;
+    min-height: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    
+}
+
+.navegação {
+    background-color: rgb(255, 255, 255);
+    color: black;
+    width: 200px;
+    border-radius: 10px;
+
+}
